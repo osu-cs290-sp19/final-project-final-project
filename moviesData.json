@@ -1,0 +1,77 @@
+﻿{
+  {
+    "name": "Avengers: Endgame",
+    "description": "The Avengers come together for an epic showdown against Thanos.",
+    "actors":  "Robert Downey Jr., Chris Evans, Chris Hemsworth",
+    "director": "Anthony and Joe Russo",
+    "c_rating": 94 ,
+    "a_rating": ""
+  },
+  {
+    "name": "Aladdin",
+    "description": "Aladdin finds a lamp and must defeat Jafar.",
+    "actors": "Will Smith, Mena Massoud, Naomi Scott",
+    "director": "Guy Ritchie",
+    "c_rating": 56 ,
+    "a_rating": ""
+  },
+  {
+    "name": "Rocketman",
+    "description": "Elton John's biopic.",
+    "actors": "Taron Egerton, Jamie Bell, Richard Madden",
+    "director": "Dexter Fletcher",
+    "c_rating": 90 ,
+    "a_rating": ""
+  },
+  {
+    "name": "John Wick: Chapter 3 - Parabellum",
+    "description": "John Wick returns for the third installment.",
+    "actors": "Keanu Reeves, Hallie Berry, Lawrence Fishburne",
+    "director": "Chad Stahelski",
+    "c_rating": 89 ,
+    "a_rating": ""
+  },
+  {
+    "name": "Ma",
+    "description": "Sue "Ma" Ann gets lit with kids, stuff goes wrong.",
+    "actors": "Octavia Spencer, Diana Silvers, Juliette Lewis",
+    "director": "Tate Taylor",
+    "c_rating": 57,
+    "a_rating": ""
+  },
+  {
+    "name": "Avatar 2",
+    "description": "The next entry in the Avatar series.",
+    "actors": "Sam Worthington, Zoe Saldana, Stephen Lang",
+    "director": "James Cameron",
+    "release_date": "December 17, 2021 "
+  },
+  {
+    "name": "Toy Story 4",
+    "description": "Woody and Buzz embark on more toy antics.",
+    "actors": "Tom Hanks, Tim Allen, Annie Potts",
+    "director": "Josh Cooley",
+    "release_date": "June 20, 2019"
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "description": "Spider-Man gets too far from home.",
+    "actors": "Tom Holland, Zendaya, Jake Gyllenhall",
+    "director": "Jon Watts",
+    "release_date": "July 2, 2019 "
+  },
+  {
+    "name": " The Lion King",
+    "description": "Reboot of the beloved animated film.",
+    "actors": "Donald Glover, Seth Rogan, Chiwetel Ejiofor",
+    "director": "John Favreau",
+    "release_date": "July 19, 2019"
+  },
+  {
+    "name": "Dora and the Lost City of Gold",
+    "description": "Dora explores high school. ",
+    "actors": "Isabela Moner, Eugenio Derbez, Michael Peña",
+    "director": "James Bobin",
+    "release_date": "August 9, 2019"
+  }
+}
