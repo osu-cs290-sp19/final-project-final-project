@@ -1,4 +1,4 @@
-﻿{
+﻿[
   {
     "name": "Avengers: Endgame",
     "description": "The Avengers come together for an epic showdown against Thanos.",
@@ -74,4 +74,4 @@
     "director": "James Bobin",
     "release_date": "August 9, 2019"
   }
-}
+]
