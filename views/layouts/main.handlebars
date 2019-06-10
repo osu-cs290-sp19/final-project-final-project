@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Fresh Celery</title>
+
+<head>
+
+
+    *** Icon Image Below ***
+    <link rel="icon" href="/images/celery_logo.png">
+
+    *** Font ***
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/style.css" media="screen">
+
+    *** handlebars stuff & index.js ***
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.runtime.js" charset="utf-8" defer></script>
+    <script src="/index.js" charset="utf-8" defer></script>
+</head>
+
+<body>
+    <header>
+        <nav id="navbar">
+            <ul id="main-nav">
+                <li class="nav-item nav-link"><a href="/">Home</a></li>
+                <li class="nav-item nav-link"><a href="/trending_movies">Trending Movies</a></li>
+                <li class="nav-item nav-link"><a href="/coming_soon">Coming Soon</a></li>
+                <li class="nav-item nav-link"><a href="/featured_critics">Featured Critics</a></li>
+                <li class="nav-item nav-link"><a href="/search">Search</a></li>
+            </ul>
+            <img class="logo" src="images/logo.png">
+
+            *** Searchbar stuff ***
+            <input class="navbar-search" type="text" name="search" placeholder="Search for tools to break me out!">
+            <button type="button" id="navbar-search-button"><i class="fas fa-search"></i></button>
+        </nav>
+    </header>
+
+    {{{body}}}
+
+</body>
+
+</html>
