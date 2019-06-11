@@ -23,6 +23,7 @@ a {
 }
 
 .navitem {
+  color: #ffffff;
   display: inline-block;
 }
 
@@ -32,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #72c609;
+  color: #eee;
 }
 
 a:focus {
