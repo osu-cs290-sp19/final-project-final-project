@@ -94,7 +94,7 @@ a:focus {
 .movie-container {
   margin: 30px 10%;
   display: flex;
-  flex: nowrap;
+  flex: wrap;
 }
 
 .movie {
