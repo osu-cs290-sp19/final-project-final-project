@@ -19,7 +19,7 @@ a {
   color: #ffffff;
   background-color: #72c609;
   font-size: 20px;
-  line-height: 20px;
+  line-height: 22px;
 }
 
 .navitem {
@@ -28,12 +28,12 @@ a {
 }
 
 a {
-  color: #343434;
+  color: #ffffff;
 }
 
 a:hover,
 a:focus {
-  color: #eee;
+  color: #dbdbdb;
 }
 
 a:focus {
