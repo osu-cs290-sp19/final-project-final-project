@@ -102,6 +102,10 @@ a:focus {
   background-color: #ffffff;
 }
 
+.movie-poster{
+  margin: 10px; 
+}
+
 .movie-icon {
   font-size: 24px;
   color: #72c609;
