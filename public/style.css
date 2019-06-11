@@ -107,6 +107,8 @@ a:focus {
   display: block;
   text-align: center;
   font-size: 40px;
+  color: #72c609;
+  margin right: 50px;
 }
 
 .movie-rating{
@@ -126,7 +128,6 @@ a:focus {
   color: #000000;
   flex: 1 1 80%;
   display: block;
-  line-height: 50%;
 }
 
 .movie-content p {
