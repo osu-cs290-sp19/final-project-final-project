@@ -11,16 +11,15 @@ a {
 .site-title {
   margin: 0;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 35%;
+  margin: 0 auto;
+  width: 100%;
   background-color: #ffffff;
 }
 
 .navbar {
   background-color: #72c609;
   font-size: 20px;
-  line-height: 0px;
+  line-height: 15px;
 }
 
 .navitem {
