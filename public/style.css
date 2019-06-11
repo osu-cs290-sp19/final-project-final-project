@@ -108,7 +108,8 @@ a:focus {
   text-align: center;
   font-size: 40px;
   color: #72c609;
-  margin right: 50px;
+  margin-bottom: 20px; 
+  margin-right: 50px;
 }
 
 .movie-rating{
