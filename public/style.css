@@ -100,6 +100,7 @@ a:focus {
   border: 3px solid #72c609;
   border-radius: 10px;
   background-color: #ffffff;
+  text-align: center;
 }
 
 .movie-poster{
@@ -114,7 +115,7 @@ a:focus {
 .movie-content {
   color: #000000;
   flex: 1 1 80%;
-  margin-left: 10px;
+  display: block;
 }
 
 .movie-content p {
