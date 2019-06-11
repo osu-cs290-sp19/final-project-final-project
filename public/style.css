@@ -103,6 +103,10 @@ a:focus {
   text-align: center;
 }
 
+.movie-rating{
+  margin-bottom: 5px; 
+}
+
 .movie-poster{
   margin: 10px; 
 }
