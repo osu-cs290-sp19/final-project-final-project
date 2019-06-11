@@ -1,7 +1,7 @@
 ﻿body {
   font-family: Gill Sans, sans-serif;
   margin: 0;
-  background-color: #eee;
+  background-color: #ffffff;
 }
 
 a {
@@ -9,13 +9,13 @@ a {
 }
 
 .site-title {
-  position: absolute;
   display: block;
   margin: 0 auto;
   background-color: #ffffff;
 }
 
 .navbar {
+  color: #ffffff;
   background-color: #72c609;
   font-size: 20px;
   line-height: 15px;
@@ -96,13 +96,14 @@ a:focus {
   display: flex;
   margin: 2px;
   padding: 20px;
-  border: 1px solid #dadada;
-  border-radius: 2px;
-  background-color: #fff;
+  border: 3px solid #72c609;
+  border-radius: 10px;
+  background-color: #ffffff;
 }
 
 .movie-icon {
   font-size: 24px;
+  color: #72c609;
 }
 
 .movie-content {
