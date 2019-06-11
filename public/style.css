@@ -26,6 +26,11 @@ a {
   display: inline-block;
 }
 
+.whitespace {
+  background-color: #ffffff;
+  line-height: 20px;
+}
+
 a {
   color: #ffffff;
 }
