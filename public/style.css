@@ -88,7 +88,7 @@ a:focus {
 
 .movie-container {
   margin: 30px 10%;
-  display: inline-block
+  display: flex;
 }
 
 .movie {
