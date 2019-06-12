@@ -9,7 +9,9 @@ a {
 }
 
 .site-title {
-  margin-right: 50px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
   background-color: #ffffff;
   float: right;
 }
