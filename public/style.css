@@ -53,6 +53,7 @@ a:focus {
   border-radius: 25px;
   background-color: #72c609;
   text-align: center;
+  margin-right: 50px;
 }
 
 .navlink.active {
