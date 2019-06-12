@@ -18,9 +18,12 @@ a {
   background-color: #72c609;
   font-size: 30px;
   line-height: 45px;
+  width: 350px;
+  list-style-type: none;
 }
 
 .navitem {
+  list-style-type: none;
 }
 
 a {
