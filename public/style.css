@@ -19,12 +19,12 @@ a {
   margin-left: 50px;
   font-size: 30px;
   line-height: 40px;
-  width: 210px;
+  width: 250px;
   list-style-type: none;
 }
 
 .navitem {
-  list-style-type: none;
+  margin-left: 10px;
 }
 
 a {
