@@ -10,8 +10,13 @@ a {
 
 .site-title {
   margin-left: 50px;
+  margin-right: 80%;
   background-color: #ffffff;
   float: right;
+}
+
+.header-text{
+ 
 }
 
 .navbar {
