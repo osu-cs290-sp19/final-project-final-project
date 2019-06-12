@@ -9,7 +9,7 @@ a {
 }
 
 .site-title {
-  margin-left: 50px;
+  margin-left: 150px;
   margin-right: 50px;
   background-color: #ffffff;
   float: right;
@@ -24,7 +24,7 @@ a {
   background-color: #ffffff;
   margin-left: 5px;
   font-size: 30px;
-  line-height: 80px;
+  line-height: 40px;
   width: 275px;
 }
 
