@@ -138,31 +138,34 @@ a:focus {
 }
 
 .movie-user {
-    color: #000000;
+  color: #000000;
   flex: 1 1 80%;
   display: block;
+  text-align: right;
   
 }
 
 .movie-attribution{
-    color: #000000;
+  color: #000000;
   flex: 1 1 80%;
   display: block;
+  text-align: right;
 }
 
 .movie-text{
     color: #000000;
   flex: 1 1 80%;
   display: block;
+  text-align: right;
 
 
 }
-
-.movie-content  {
+/*
+.movie-content .movie-attribution {
   margin-top: 8px;
   text-align: right;
   font-weight: bold;
-}
+} */
 
 #create-movie-button {
   position: fixed;
