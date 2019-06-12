@@ -14,15 +14,9 @@ a {
   float: right;
 }
 
-.header-text{
- 
-}
-
 .navbar {
   color: #ffffff;
   background-color: #ffffff;
-  margin-left: 5px;
-  margin-right: 50px;
   font-size: 30px;
   line-height: 40px;
   width: 275px;
@@ -30,7 +24,6 @@ a {
 
 .navitem {
   list-style-type: none;
-  margin-right: 50px;
 }
 
 a {
@@ -53,7 +46,6 @@ a:focus {
   border-radius: 25px;
   background-color: #72c609;
   text-align: center;
-  margin-right: 50px;
 }
 
 .navlink.active {
