@@ -104,13 +104,10 @@ a:focus {
 }
 
 .section-header{
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
   text-align: center;
   font-size: 40px;
   color: #72c609;
-  margin-bottom: 20px; 
-  margin-right: 50px;
 }
 
 .movie-rating{
