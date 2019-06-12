@@ -15,7 +15,7 @@ a {
 
 .navbar {
   color: #ffffff;
-  background-color: #72c609;
+  background-color: #ffffff;
   margin-left: 50px;
   font-size: 30px;
   line-height: 40px;
@@ -41,11 +41,9 @@ a:focus {
 
 .navlink a {
   display: block;
-  margin: 4px;
-  padding: 4px;
   border: 1px solid #72c609;
   border-radius: 25px;
-  background-color: #ffffff;
+  background-color: #72c609;
   text-align: center;
 }
 
