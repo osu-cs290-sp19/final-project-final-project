@@ -1,7 +1,7 @@
 ﻿body {
   font-family: Gill Sans, sans-serif;
   margin: 0;
-  background-color: #fcfcfc;
+  background-color: #fdfdfd;
 }
 
 a {
@@ -15,6 +15,8 @@ a {
   margin-top: 0px;
   float: right;
 }
+
+.title
 
 .navbar {
   color: #ffffff;
