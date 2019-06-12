@@ -170,7 +170,7 @@ a:focus {
 #create-movie-button {
   position: fixed;
   right: 30px;
-  bottom: 30px;
+  top: 30px;
   height: 60px;
   width: 60px;
   border: none;
