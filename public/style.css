@@ -1,7 +1,7 @@
 ﻿body {
   font-family: Gill Sans, sans-serif;
   margin: 0;
-  background-color: #fdfdfd;
+  background-color: #fcfcfc;
 }
 
 a {
@@ -18,7 +18,7 @@ a {
 
 .navbar {
   color: #ffffff;
-  background-color: #eeeeee;
+  background-color: #fcfcfc;
   font-size: 22px;
   line-height: 34px;
   width: 220px;
