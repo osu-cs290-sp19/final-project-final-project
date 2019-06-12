@@ -103,7 +103,7 @@ a:focus {
   text-align: center;
 }
 
-.movie-section{
+.section-header{
   display: flex;
   flex-wrap: wrap;
   text-align: center;
