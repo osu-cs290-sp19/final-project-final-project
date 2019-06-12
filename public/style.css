@@ -89,7 +89,7 @@ a:focus {
 .movie-container {
   margin: 30px 10%;
   display: flex;
-  flex: wrap;
+  flex-wrap: wrap;
 }
 
 .movie {
@@ -105,7 +105,7 @@ a:focus {
 
 .movie-section{
   display: flex;
-  flex: wrap;
+  flex-wrap: wrap;
   text-align: center;
   font-size: 40px;
   color: #72c609;
