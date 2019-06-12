@@ -11,6 +11,7 @@ a {
 .site-title {
   margin-left: 50px;
   background-color: #ffffff;
+  float: right;
 }
 
 .navbar {
