@@ -109,7 +109,8 @@ a:focus {
 }
 
 .movie-section{
-  display: block;
+  display: flex;
+  flex: wrap;
   text-align: center;
   font-size: 40px;
   color: #72c609;
