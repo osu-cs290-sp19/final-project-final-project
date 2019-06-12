@@ -16,9 +16,10 @@ a {
 .navbar {
   color: #ffffff;
   background-color: #72c609;
+  margin-left: 50px;
   font-size: 30px;
-  line-height: 45px;
-  width: 350px;
+  line-height: 40px;
+  width: 210px;
   list-style-type: none;
 }
 
