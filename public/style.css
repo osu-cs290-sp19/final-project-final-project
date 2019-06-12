@@ -93,7 +93,7 @@ a:focus {
 }
 
 .movie {
-  display: flex;
+  display: block;
   margin: 2px;
   padding: 20px;
   border: 4px solid #72c609;
