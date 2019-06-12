@@ -9,11 +9,10 @@ a {
 }
 
 .site-title {
-  width: 47%;
+  width: 49%;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 10px;
-  background-color: #ffffff;
+  margin-top: 0px;
   float: right;
 }
 
@@ -21,7 +20,7 @@ a {
   color: #ffffff;
   background-color: #ffffff;
   font-size: 22px;
-  line-height: 30px;
+  line-height: 50px;
   width: 220px;
 }
 
