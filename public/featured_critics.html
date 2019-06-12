@@ -1,5 +1,124 @@
 <- Featured Critics
 
+<!DOCTYPE html>
+<html>
+  <head>
 
+    <meta charset="utf-8">
+    <title>Fresh Celery</title>
+
+    <!-- This is a 3rd-party stylesheet to make available the font family to be used for this page ("Roboto"). -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,400,700" rel="stylesheet">
+
+    <!-- This 3rd-party stylesheet incorporates SVG icons from Font Awesome: http://fontawesome.com/ -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css" media="screen">
+
+    <script src="index.js" charset="utf-8" defer></script>
+
+  </head>
+
+  <body>
+
+      <header>
+          <!-- The <i> tag below includes the bullhorn icon from Font Awesome -->
+      <h1 class="site-title"><img src="Images/logo.png" alt="Logo of Fresh Celery" style="width:350px;height:175px"/></h1>
+     <!--   <h2 class="header-text"> Fresh Celery </h2> -->
+          <nav class="navbar">
+              <ul class="main-nav">
+                  <li class="navitem navlink"><a href="/">Home</a></li>
+                  <li class="navitem navlink"><a href="/trending_movies">Trending Movies</a></li>
+                  <li class="navitem navlink"><a href="/coming_soon">Coming Soon</a></li>
+                  <li class="navitem navlink"><a href="/featured_critics">Featured Critics</a></li>
+                <!--
+                  <li class="navitem navbar-search">
+                      <input type="text" id="navbar-search-input" placeholder="Search...">
+                      <button type="button" id="navbar-search-button"><i class="fas fa-search"></i></button>
+                  </li>      -->
+              </ul>
+          </nav>
+      </header>
+      
+
+      <main class="movie-container">
+        
+          <article class="section">
+              <div class = "section-header">
+              <h2> User Reviews </h2>
+              </div>
+           </article>
+
+          <article class="movie">
+              <div class="movie-content">
+                  <h3>Robert Hess</h3>
+                  <p class="movie-author">
+                      Aladdin
+                  </p>
+                  <p class="movie-text">
+                      A breathtaking look into the live-action version of what Aladdin would look like! Will Smith kills it, literally.  
+                      I would assume that the man has done some sort of acting before, he seems like a true professional!
+                      Leaving the movie theatre, all I wanted to do was see it again, so I did! I wouldn't be on this great movie site, Fresh
+                      Celery, raving about it to y'all if I didn't care for it. I recommend going to give this movie a chance despite the reviews it has gotten. 
+                  </p>
+              </div>
+          </article>
+
+
+          <article class="movie">
+              <div class="movie-content">
+                  <h3>Evan Turner</h3>
+                  <p class="movie-author">
+                      Ma
+                  </p>
+                  <p class="movie-text">
+                      (Ma)n does this movie rock! I would highly suggest this movie to individuals looking to party with people half their age! 
+                      If anyone is looking to have a good time at the movies, I would head over to Ma's ASAP! Take my money, please!! 
+                      This movie is not for the children, so don't take em. Period. I'm serious, I still have nightmares about Ma sleeping with my
+                      boyfriend and taking my earings...
+                  </p>
+              </div>
+          </article>
+
+
+      </main>
+
+    <button type="button" id="create-movie-button"><i class="fas fa-pen"></i></button>
+
+    <div id="modal-backdrop" class="hidden"></div>
+    <div id="create-movie-modal" class="hidden">
+      <div class="modal-dialog">
+
+        <div class="modal-header">
+          <h3>Post A Review</h3>
+          <button type="button" class="modal-close-button">&times;</button>
+        </div>
+
+        <div class="modal-body">
+            <div class="movie-input-element">
+                <label for="movie-user-input">User</label>
+                <input type="text" id="movie-user-input">
+            </div>
+            <div class="movie-input-element">
+                <label for="movie-attribution-input">Movie</label>
+                <input type="text" id="movie-attribution-input">
+            </div>
+            <div class="movie-input-element">
+                <label for="movie-text-input">Review Column</label>
+                <textarea id="movie-text-input"></textarea>
+            </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="modal-cancel-button">Cancel</button>
+          <button type="button" class="modal-accept-button">Create Review</button>
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+
+</html>
 
 
