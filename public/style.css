@@ -9,9 +9,9 @@ a {
 }
 
 .site-title {
-  width: 45%;
-  margin-right: auto;
-  margin-left: auto;
+  position: fixed;
+  right: 30px;
+  top: 30px;
   background-color: #ffffff;
   float: right;
 }
