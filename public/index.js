@@ -8,7 +8,7 @@
 var modal = document.getElementById("create-movie-modal");
 var modalBD = document.getElementById("modal-backdrop");
 var createButton = document.getElementById("create-movie-button");
-var movieText = document.getElementById("review-text-input");
+var movieText = document.getElementById("movie-text-input");
 var movieAuthor = document.getElementById("movie-attribution-input");
 
 var movieInput = document.getElementById("navbar-search-input");
