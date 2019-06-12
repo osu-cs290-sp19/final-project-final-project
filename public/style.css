@@ -11,7 +11,8 @@ a {
 .site-title {
   display: block;
   margin-left: 50px;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   background-color: #ffffff;
 }
 
@@ -87,7 +88,7 @@ a:focus {
 }
 
 .movie-container {
-  margin: 10px 5%;
+  margin: 50px;
   display: flex;
   flex-wrap: wrap;
 }
