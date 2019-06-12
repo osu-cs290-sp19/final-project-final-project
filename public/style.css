@@ -9,9 +9,7 @@ a {
 }
 
 .site-title {
-  display: block;
   margin-left: 50px;
-  margin-bottom: 2px;
   background-color: #ffffff;
 }
 
@@ -19,7 +17,7 @@ a {
   color: #ffffff;
   background-color: #72c609;
   font-size: 20px;
-  line-height: 23px;
+  line-height: 5px;
 }
 
 .navitem {
@@ -52,7 +50,7 @@ a:focus {
   float: right;
   margin-right: 20px;
   padding: 0;
-  line-height: 38px;
+  line-height: 5px;
 }
 
 #navbar-search-input {
