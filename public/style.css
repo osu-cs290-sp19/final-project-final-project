@@ -137,7 +137,7 @@ a:focus {
   margin: 0;
 }
 
-.movie-user {
+.review-user {
   color: #000000;
   flex: 1 1 80%;
   display: block;
@@ -145,21 +145,20 @@ a:focus {
   
 }
 
-.movie-attribution{
+.review-attribution{
   color: #000000;
   flex: 1 1 80%;
   display: block;
   text-align: right;
 }
 
-.movie-text{
-    color: #000000;
+.review-text{
+  color: #000000;
   flex: 1 1 80%;
   display: block;
   text-align: right;
-
-
 }
+
 /*
 .movie-content .movie-attribution {
   margin-top: 8px;
