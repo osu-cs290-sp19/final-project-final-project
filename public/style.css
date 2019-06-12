@@ -40,8 +40,13 @@ a:focus {
 }
 
 .navlink a {
-  padding: 4px 10px;
-  display: inline-block;
+  display: block;
+  margin: 4px;
+  padding: 4px;
+  border: 1px solid #72c609;
+  border-radius: 25px;
+  background-color: #ffffff;
+  text-align: center;
 }
 
 .navlink.active {
