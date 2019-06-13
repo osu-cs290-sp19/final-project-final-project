@@ -160,13 +160,6 @@ a:focus {
   text-align: right;
 }
 
-/*
-.movie-content .movie-attribution {
-  margin-top: 8px;
-  text-align: right;
-  font-weight: bold;
-} */
-
 #create-movie-button {
   position: fixed;
   right: 30px;
