@@ -51,7 +51,7 @@ a:focus {
 }
 
 
-.navlink.active {
+.navlink.active a{
   color: black;
 
 }
