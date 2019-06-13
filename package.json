@@ -1,0 +1,19 @@
+﻿{
+  "name": "final-project-group-29",
+  "version": "1.0.0",
+  "description": "Fresh Celery: A movie review website giving information about user reviews, critics reviews, trending movies, and coming soon!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs290-sp19/final-project-team-29"
+  },
+  "author": "Jacob Lagmay and Braeden Kuether",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs290-sp19/final-project-team-29"
+  },
+  "homepage": "https://github.com/osu-cs290-sp19/final-project-team-29"
+}
