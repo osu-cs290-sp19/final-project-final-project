@@ -74,7 +74,7 @@ a:focus {
   font-size: 16px;
   background-color: #eee;
   border: 1px solid #dadada;
-  border-radius: 2px;
+  border-radius: 2500px;
 }
 
 #navbar-search-input:focus {
