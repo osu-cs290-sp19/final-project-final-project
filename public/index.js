@@ -94,8 +94,8 @@ function movieFunc(event) {
 
   var icon = document.createElement('i');
   var movieIcon = document.createElement('div');
-  var text = document.createElement('h3');
-  var author = document.createElement('a');
+  var text = document.createElement('p');
+  var author = document.createElement('p');
   var attribution = document.createElement('p');
   var movieContent = document.createElement('div');
   var movie = document.createElement('article');
