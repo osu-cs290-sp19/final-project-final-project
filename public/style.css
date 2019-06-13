@@ -59,9 +59,7 @@ a:focus {
 
 .navbar-search {
   float: right;
-  margin-right: 20px;
   padding: 0;
-  line-height: 38px;
 }
 
 #navbar-search-input {
