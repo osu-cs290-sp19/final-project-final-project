@@ -92,29 +92,33 @@ function movieFunc(event) {
 
   }
 
-  var text = document.createElement('p');
-  var author = document.createElement('p');
-  var user = document.createElement('p');
-  var attribution = document.createElement('p');
-  var movieContent = document.createElement('div');
-  var movie = document.createElement('article');
-  var body = document.getElementsByClassName('movie-container')[0];
-
-  movieContent.classList.add("movie-content");
-  movieContent.appendChild(user);
-  movieContent.appendChild(attribution);
-  movieContent.appendChild(text);
-
-  
-  user.classList.add('movie-text');
-  user.textContent = movieUser.value
-   
-  text.classList.add('movie-text');
-  text.textContent = movieText.value;
+	  var icon = document.createElement('i');
+	  var movieIcon = document.createElement('div');
+	  var text = document.createElement('p');
+	  var author = document.createElement('p');
+	  var user = document.createElement('p');
+	  var attribution = document.createElement('p');
+	  var movieContent = document.createElement('div');
+	  var movie = document.createElement('article');
+	  var body = document.getElementsByClassName('movie-container')[0];
 	
-    
-  author.classList.add('movie-text');
-  author.textContent = movieAuthor.value;
+	  movieContent.classList.add("movie-content");
+	  movieContent.appendChild(text);
+	  movieContent.appendChild(user);
+	  movieContent.appendChild(attribution);
+	  movieContent.appendChild(text);
+	
+	
+	  user.classList.add('movie-text');
+	  user.textContent = movieUser.value;
+	
+	  text.classList.add('movie-text');
+	  text.textContent = movieText.value;
+	
+	
+	  author.href = '#';
+	  author.textContent = movieAuthor.value;
+	
   
     
   attribution.classList.add('movie-attribution');
