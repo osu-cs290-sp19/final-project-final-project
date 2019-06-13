@@ -116,7 +116,7 @@ a:focus {
 }
 
 .critic-pic {
-  float: right;
+  float: left;
 }
 .movie-rating{
   margin-bottom: 10px; 
