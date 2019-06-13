@@ -114,7 +114,9 @@ function movieFunc(event) {
   icon.classList.add('fa');
   icon.classList.add('fa-bullhorn');
   
+  /*
   author.href = '#';
+  */
   author.textContent = movieAuthor.value;
   
   attribution.classList.add('movie-attribution');
