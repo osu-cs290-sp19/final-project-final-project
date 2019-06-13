@@ -105,18 +105,11 @@ function movieFunc(event) {
   movieContent.appendChild(text);
   movieContent.appendChild(attribution);
 
-  movieIcon.classList.add('movie-icon');
-  movieIcon.appendChild(icon);
-
   text.classList.add('movie-text');
   text.textContent = movieText.value;
 
-  icon.classList.add('fa');
-  icon.classList.add('fa-bullhorn');
   
-  /*
   author.href = '#';
-  */
   author.textContent = movieAuthor.value;
   
   attribution.classList.add('movie-attribution');
