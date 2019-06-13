@@ -132,6 +132,3 @@ function movieFunc(event) {
 
   modalFunc();
 }
-
-
-alert('JS successfully loaded.');
