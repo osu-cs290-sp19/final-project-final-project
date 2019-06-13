@@ -8,6 +8,7 @@
 var modal = document.getElementById("create-movie-modal");
 var modalBD = document.getElementById("modal-backdrop");
 var createButton = document.getElementById("create-movie-button");
+var movieUser = document.getElementById("movie-user-input");
 var movieText = document.getElementById("movie-text-input");
 var movieAuthor = document.getElementById("movie-attribution-input");
 
@@ -67,6 +68,7 @@ function modalFunc(event) {
 
        movieText.value = "";
        movieAuthor.value = "";
+       movieUser.value = "";
        modal.classList.remove('hidden');
        modalBD.classList.remove('hidden');
 
@@ -83,16 +85,16 @@ function modalFunc(event) {
 
 function movieFunc(event) {
 
-  if ((movieText.value == "") || (movieAuthor.value == "")) {
+  if ((movieText.value == "") || (movieAuthor.value == "") || (movieUser.value == "")) {
 
-        alert("Boxes empty, cannot create review.")
+        alert("One or more Boxes empty, cannot create user review.")
         return;
 
   }
 
   var icon = document.createElement('i');
   var movieIcon = document.createElement('div');
-  var text = document.createElement('p');
+  var text = document.createElement('h3');
   var author = document.createElement('a');
   var attribution = document.createElement('p');
   var movieContent = document.createElement('div');
