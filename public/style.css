@@ -109,12 +109,15 @@ a:focus {
   text-align: center;
 }
 
-.section-header{
+.section-header {
   font-size: 20px;
   color: #72c609;
   margin-right: 2500px;
 }
 
+.critic-pic {
+  float: right;
+}
 .movie-rating{
   margin-bottom: 10px; 
 }
