@@ -63,3 +63,12 @@ User-Generated Reviews
 Search Bar hovers above list of information
 As search bar is filled, information disappears from the webpage
 Each result links to either the movie it’s talking about, nothing at all (coming soon), or the critic’s biography
+
+Credit:
+
+Fresh Celery is the work of Braeden Kuether and Jacob Lagmay. 
+Both the celery and tomato icons, as well as all movie poster images belong to their original creators. 
+The celery image comes from: https://ya-webdesign.com/image/celery-clipart-cute-cartoon/979894.html
+The tomato image comes from: https://www.pngkit.com/view/u2q8o0t4i1i1t4a9_image-freeuse-library-roma-tomato-t-shirt-cartoon/
+The Website logo was designed using those previously mentioned icons. 
+
